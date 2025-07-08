@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍 About
+## About
 
 **SEEK** is a Python-based command-line utility designed to enumerate installed software, retrieve executable paths and version information, and identify open network ports used by specific programs. The tool is especially useful for system auditing, baseline analysis, and security recon within IT environments.
 
